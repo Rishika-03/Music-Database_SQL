@@ -3,4 +3,4 @@ This SQL project focuses on analyzing a music store database, aiming to provide 
 The project tackles questions related to sales, customer behavior, genre preferences, etc. 
 It offers insights into customer behavior, spending patterns, and country-specific trends.
 # Database and Tools
-> Microsoft SQL Server Management Studio
+* Microsoft SQL Server Management Studio
